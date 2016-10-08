@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="display_settings">
+
+    <CheckBoxPreference
+        android:key="PREF_OTOMATIK_DONDUR"
+        android:title="Otomatik Döndür"
+        android:defaultValue="true"/>
+
+</PreferenceScreen>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Prefernce Framework</string>
+    <string name="action_settings">Settings</string>
+    <string name="tercih">Tercihler</string>
+    <string name="ayarlar_menu">Ayarlar</string>
+    <string name="otomatik_guncelle_title">Otomatik Güncelle</string>
+    <string name="finans_birimi_title">Finans Birimi</string>
+    <string name="finans_birimi_summary">Takip etmek istediğiniz finans birimi</string>
+    <string name="finans_birimi_dialog_title">Finans Birimi Seçin</string>
+    <string name="uyarma_yuzdesi_title">Uyarma Yüzdesi</string>
+    <string name="uyarma_yuzdesi_summary">Yüzde değişim oranı</string>
+
+    <string-array name="finans_birimi">
+        <item>Altın</item>
+        <item>Euro</item>
+        <item>Dolar</item>
+        <item>Pound</item>
+    </string-array>
+
+    <string-array name="finans_birimi_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+</resources>

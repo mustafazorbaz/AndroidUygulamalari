@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="names">
+        <item>Gülen Tezcan</item>
+        <item>Emel Ateş</item>
+        <item>Tevfik Kızılören</item>
+        <item>Emre Kısa</item>
+    </string-array>
+</resources>

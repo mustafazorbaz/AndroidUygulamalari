@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="network_settings">
+
+    <PreferenceCategory
+        android:title="Mobil Network">
+        <PreferenceScreen
+            android:key="mobile_networks"
+            android:title="Mobil Networkler">
+            <!-- Burda farklı preference kontrolleri kullanabilirsiniz  -->
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

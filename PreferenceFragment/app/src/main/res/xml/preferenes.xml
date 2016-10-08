@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header android:fragment="com.example.mustafa.preferencefragment.DisplaySettingsFragment"
+        android:icon="@drawable/ic_display"
+        android:title="Ekran"
+        android:summary="Ekran Tercihleri" />
+
+    <header android:fragment="com.example.mustafa.preferencefragment.NetworkSettingsFragment"
+        android:icon="@drawable/ic_network"
+        android:title="Network"
+        android:summary="Network Tercihleri" />
+
+    <header android:icon="@drawable/ic_settings"
+        android:title="Ses Ayarları">
+        <intent android:action="android.settings.SOUND_SETTINGS"/>
+    </header>
+</preference-headers>

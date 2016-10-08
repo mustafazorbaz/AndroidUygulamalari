@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Preference Fragment</string>
+    <color name="acik_gri">#cdceda</color>
+</resources>
